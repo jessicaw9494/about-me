@@ -7,7 +7,7 @@
 ## _Bio_
 * Jessica is a high school student who is in the Software Engineering Program.
 * Jessica is in the Telecomm. Tennis Team.
-*
+
 **Schedule:** 
 1. Spanish 
 2. English 
