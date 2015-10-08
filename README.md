@@ -1,5 +1,4 @@
-# ABOUT ME: 
-    Jessica Wu
+# ABOUT ME: Jessica Wu
 **Email:** jessicaw9494@hstat.org  
 **School:** HSTAT  
 **Schedule:** Spanish, English, APUSH, AP Calculus, Gym, Lunch, Physics, Software Engineering  
@@ -7,4 +6,5 @@
 **Favorite Sport:** [Tennis](psal.org)
 ---
 ## _Bio_
-Jessica is a high school student who is in the Software Engineering Program.
+* Jessica is a high school student who is in the Software Engineering Program.
+* Jessica is in the Telecomm. Tennis Team.
