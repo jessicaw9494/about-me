@@ -9,11 +9,11 @@
 * Jessica is in the Telecomm. Tennis Team.
 
 **Schedule:** 
-1. Spanish 
-2. English 
-3. APUSH 
-4. AP Calculus 
-5. Gym 
-6. Lunch 
-7. Physics 
+1. Spanish  
+2. English  
+3. APUSH  
+4. AP Calculus  
+5. Gym  
+6. Lunch  
+7. Physics  
 8. Software Engineering  
