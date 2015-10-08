@@ -8,7 +8,7 @@
 * Jessica is a high school student who is in the Software Engineering Program.
 * Jessica is in the Telecomm. Tennis Team.
 
-**Schedule:** 
+**Schedule:**  
 1. Spanish  
 2. English  
 3. APUSH  
